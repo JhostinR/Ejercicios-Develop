@@ -135,8 +135,7 @@
 
             area = Math.PI * radio ^ 2;
 
-            Console.WriteLine("El área del circulo es {0} ", area);
-
+            Console.WriteLine("El área del circulo es: "+area);
             /*14. Pedir el radio de una circunferencia y calcular su longitud.*/
 
             double radio, longitud;
